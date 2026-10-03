@@ -1,0 +1,16 @@
+D:\Programs\VSCode\98Setup\obj\Debug\net8.0-windows\98Setup.csproj.GenerateResource.cache
+D:\Programs\VSCode\98Setup\obj\Debug\net8.0-windows\98Setup.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\VSCode\98Setup\obj\Debug\net8.0-windows\98Setup.AssemblyInfoInputs.cache
+D:\Programs\VSCode\98Setup\obj\Debug\net8.0-windows\98Setup.AssemblyInfo.cs
+D:\Programs\VSCode\98Setup\obj\Debug\net8.0-windows\98Setup.csproj.CoreCompileInputs.cache
+D:\Programs\VSCode\98Setup\bin\Debug\net8.0-windows\98Setup.exe
+D:\Programs\VSCode\98Setup\bin\Debug\net8.0-windows\98Setup.deps.json
+D:\Programs\VSCode\98Setup\bin\Debug\net8.0-windows\98Setup.runtimeconfig.json
+D:\Programs\VSCode\98Setup\bin\Debug\net8.0-windows\98Setup.dll
+D:\Programs\VSCode\98Setup\bin\Debug\net8.0-windows\98Setup.pdb
+D:\Programs\VSCode\98Setup\obj\Debug\net8.0-windows\98Setup.dll
+D:\Programs\VSCode\98Setup\obj\Debug\net8.0-windows\refint\98Setup.dll
+D:\Programs\VSCode\98Setup\obj\Debug\net8.0-windows\98Setup.pdb
+D:\Programs\VSCode\98Setup\obj\Debug\net8.0-windows\98Setup.genruntimeconfig.cache
+D:\Programs\VSCode\98Setup\obj\Debug\net8.0-windows\ref\98Setup.dll
+D:\Programs\VSCode\98Setup\obj\Debug\net8.0-windows\_98Setup.Form1.resources
